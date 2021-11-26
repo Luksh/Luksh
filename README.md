@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me ...
+- 📫 How to reach me: fb.me/Lukshmann
 
 <!---
 Luksh/Luksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me: fb.me/Lukshmann
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Beluksh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Beluksh&screen_name=Beluksh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Beluksh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBeluksh&screen_name=Beluksh)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://laxmanmaharjan.info.np#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://laxmanmaharjan.info.np#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Beluksh#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Beluksh#gh-dark-mode-only)

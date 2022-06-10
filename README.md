@@ -32,7 +32,7 @@
 
 <img align="left" alt="Luksh's github stats" src="https://github-readme-stats.vercel.app/api?username=Luksh&show_icons=truehide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luksh&hide=TeX&layout=compact)
 
 <!---
 Luksh/Luksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

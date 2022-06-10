@@ -8,23 +8,20 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://laxmanmaharjan.info.np#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://laxmanmaharjan.info.np#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Beluksh#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Beluksh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luksh#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luksh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/Lukshmann#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/Lukshmann#gh-dark-mode-only)
 </details>
 
-[website]: https://laxmanmaharjan.info.np
+[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/Beluksh
 [instagram]: https://instagram.com/Lukshmann
 [linkedin]: https://linkedin.com/in/Luksh

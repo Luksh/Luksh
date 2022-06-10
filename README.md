@@ -6,20 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Beluksh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBeluksh&screen_name=Beluksh)
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://laxmanmaharjan.info.np#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://laxmanmaharjan.info.np#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Beluksh#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Beluksh#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/Luksh#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/Luksh#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/Lukshmann#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/Lukshmann#gh-dark-mode-only)
-</details>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Luksh.Luksh&left_color=green&right_color=red)
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/Beluksh

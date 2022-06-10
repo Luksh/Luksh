@@ -6,8 +6,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Beluksh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBeluksh&screen_name=Beluksh)
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luksh/)](https://www.linkedin.com/in/luksh/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lukshmann/)](https://instagram.com/lukshmann)
+[![Linkedin Badge](https://img.shields.io/badge/-luksh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luksh/)](https://www.linkedin.com/in/luksh/)
+[![Instagram Badge](https://img.shields.io/badge/-lukshmann-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lukshmann/)](https://instagram.com/lukshmann)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luksh.Luksh&left_color=green&right_color=red)
 

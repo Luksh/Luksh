@@ -8,6 +8,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luksh.Luksh&left_color=green&right_color=red)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luksh)](https://github.com/ryo-ma/github-profile-trophy)
+
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/Beluksh
 [instagram]: https://instagram.com/Lukshmann

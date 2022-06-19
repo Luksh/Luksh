@@ -9,6 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-luksh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luksh/)](https://www.linkedin.com/in/luksh/)
 [![Instagram Badge](https://img.shields.io/badge/-lukshmann-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lukshmann/)](https://instagram.com/lukshmann)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Luksh/Luksh)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luksh.Luksh&left_color=green&right_color=red)
 
 ## ⚡ Technologies

@@ -33,6 +33,12 @@
 
 <img align="left" alt="Luksh's github stats" src="https://github-readme-stats.vercel.app/api?username=Luksh&show_icons=truehide_border=true" />
 
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=lukshmann&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lukshmann&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luksh&hide=TeX&layout=compact)
 
 <!---

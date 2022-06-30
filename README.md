@@ -12,7 +12,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Luksh/Luksh)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luksh.Luksh&left_color=green&right_color=red)
 
-<a href="https://stackoverflow.com/users/luksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="luksh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/luksh" target="blank"><img align="center" alt="luksh" height="30" width="40" /></a>
 <a href="https://fb.com/lukshmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lukshmann" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/luksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luksh" height="30" width="40" /></a>
 

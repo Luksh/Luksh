@@ -31,9 +31,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luksh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luksh)
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luksh&" alt="luksh" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luksh)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="left" alt="Luksh's github stats" src="https://github-readme-stats.vercel.app/api?username=Luksh&show_icons=truehide_border=true" />

@@ -2,7 +2,7 @@
 <img src = 'https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width=150 align=right>
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-👋 Hi, I’m @Luksh<br>👀 I’m interested in programming<br>🌱 I’m currently learning django<br>💞️ I’m looking to collaborate on django projects<br>📫 How to reach me: fb.me/Lukshmann
+👋 Hi, I’m Luksh<br>👀 I’m interested in programming<br>🌱 I’m currently learning django<br>💞️ I’m looking to collaborate on django projects<br>📫 How to reach me: fb.me/Lukshmann
 
 
 
@@ -29,6 +29,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![GitHub metrics](https://metrics.lecoq.io/luksh)
 ---
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif' width = 30></h2>
 

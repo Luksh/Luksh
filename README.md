@@ -1,4 +1,4 @@
-## 💫 About Me: <img src = 'https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width=100>
+## 💫 About Me: <img src = 'https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width=100 >
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 👋 Hi, I’m @Luksh<br>👀 I’m interested in programming<br>🌱 I’m currently learning django<br>💞️ I’m looking to collaborate on django projects<br>📫 How to reach me: fb.me/Lukshmann
@@ -29,7 +29,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = 32></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif' width = 35></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 

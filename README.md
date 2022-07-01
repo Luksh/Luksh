@@ -1,6 +1,6 @@
-<h2>💫 About Me:<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif", width = 100></h2>
+## 💫 About Me: <img src = 'https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width=100>
 
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 👋 Hi, I’m @Luksh<br>👀 I’m interested in programming<br>🌱 I’m currently learning django<br>💞️ I’m looking to collaborate on django projects<br>📫 How to reach me: fb.me/Lukshmann
 
 
@@ -28,13 +28,12 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=luksh&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = 32></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+[![](https://visitcount.itsvg.in/api?id=luksh&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luksh)

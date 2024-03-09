@@ -26,6 +26,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luksh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luksh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luksh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 

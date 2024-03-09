@@ -36,7 +36,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">

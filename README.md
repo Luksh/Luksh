@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
 ## 💫 About Me:
 <img src = 'https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width=150 align=right>
 

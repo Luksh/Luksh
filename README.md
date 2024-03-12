@@ -38,14 +38,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p>
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 [![](https://visitcount.itsvg.in/api?id=luksh&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating

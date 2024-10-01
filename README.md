@@ -11,6 +11,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Beluksh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBeluksh&screen_name=Beluksh)
 
+[![](https://visitcount.itsvg.in/api?id=luksh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/Luksh/Luksh)
 
 # 💻 Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30>
